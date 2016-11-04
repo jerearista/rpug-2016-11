@@ -1,17 +1,21 @@
 # PuppetConf 2016 
-Raleigh Puppet Users Group
+Raleigh Puppet Users Group:
 2016-11
 
-New CEO: Sanjay Mirchandani
+Be sure to check out the [2016 State of DevOps Report](https://puppet.com/resources/white-paper/2016-state-of-devops-report)
+
+New CEO: Sanjay Mirchandani,
 Primary rolle: Scale the company
 
-Big push on partners for sales and professional services
-New TAPP (Technical Alliance Partner Program) program coming in Feb
-Demo-Easel - Very simple scripted demos with (almost) no typing required
+Big push on partners for sales and professional services.
+
+- New TAPP (Technical Alliance Partner Program) program coming in Feb
+- Demo-Easel - Very simple scripted demos with (almost) no typing required
 
 
 ## New Release - 2016.4 (LTS → Oct 2018):
 [Everything else is EOL by January 2017!](https://puppet.com/misc/puppet-enterprise-lifecycle)
+
 Quarterly release cadence with an Long Term Support (LTS) release coming every 18-months
 
 - Idempotent installer
